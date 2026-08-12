@@ -6,3 +6,10 @@ url/
 *~
 #*#
 .#*
+
+authinfo
+authinfo.gpg
+.authinfo
+.authinfo.gpg
+*.secret
+secrets.el

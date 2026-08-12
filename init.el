@@ -38,3 +38,4 @@
 
 ;; 不正な入力があった場合ベルを鳴らさないようにする。
 (setq ring-bell-function 'ignore)
+
